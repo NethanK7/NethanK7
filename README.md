@@ -1,25 +1,25 @@
 <div align="center">
 
-# 💫 Nethan | Creative Developer
+# Nethan | Creative Developer
 **Where Code Meets Cinema**
 
-<img src="https://github.com/Anmol-Baranwal/Cool-GIFs-For-GitHub/blob/main/Gifs/Lofi-Girl.gif?raw=true" width="800" alt="Cozy Workspace">
+<img src="https://raw.githubusercontent.com/abhisheknaiidu/awesome-github-profile-readme/master/gifs/lofi.gif" width="800" alt="Cozy Workspace">
 
 ---
 
-### 🌙 Welcome to my Workspace
-I’m a developer who treats a codebase like a film edit—precise, structured, and high-impact. 
-Currently perfecting the art of **Flutter, Kotlin, and Software Architecture.**
+### Welcome to my Workspace
+I am a developer who treats a codebase like a film edit—precise, structured, and high-impact. 
+Currently perfecting the art of Flutter, Kotlin, and Software Architecture.
 
-[ 🖥️ Portfolio ](https://github.com/NethanK7) • [ 💼 LinkedIn ](#) • [ 📧 Contact ](#)
+[ Portfolio ](https://github.com/NethanK7) • [ LinkedIn ](#) • [ Contact ](#)
 
-<img src="https://github.com/Anmol-Baranwal/Cool-GIFs-For-GitHub/blob/main/Gifs/Coffee.gif?raw=true" width="400" alt="Cozy Coding">
+<img src="https://raw.githubusercontent.com/abhisheknaiidu/awesome-github-profile-readme/master/gifs/productive.gif" width="400" alt="Cozy Coding">
 
 </div>
 
 ---
 
-### 💻 The Full Production Stack
+### The Full Production Stack
 
 | Category | Tools & Technologies |
 | :--- | :--- |
@@ -28,12 +28,11 @@ Currently perfecting the art of **Flutter, Kotlin, and Software Architecture.**
 | **Backend & DB** | ![Firebase](https://img.shields.io/badge/Firebase-FFCA28?style=flat-square&logo=firebase&logoColor=black) ![Node.js](https://img.shields.io/badge/Node.js-339933?style=flat-square&logo=nodedotjs&logoColor=white) ![MSSQL](https://img.shields.io/badge/SQL_Server-CC2927?style=flat-square&logo=microsoftsqlserver&logoColor=white) ![MongoDB](https://img.shields.io/badge/MongoDB-47A248?style=flat-square&logo=mongodb&logoColor=white) ![SQLite](https://img.shields.io/badge/SQLite-003B57?style=flat-square&logo=sqlite&logoColor=white) |
 | **DevOps & Tools** | ![Docker](https://img.shields.io/badge/Docker-2496ED?style=flat-square&logo=docker&logoColor=white) ![AWS](https://img.shields.io/badge/AWS-232F3E?style=flat-square&logo=amazon-aws&logoColor=white) ![Git](https://img.shields.io/badge/Git-F05032?style=flat-square&logo=git&logoColor=white) ![Postman](https://img.shields.io/badge/Postman-FF6C37?style=flat-square&logo=postman&logoColor=white) |
 
----
 
-### 🎬 Creative Media Studio
+### Creative Media Studio
 
 <div align="right">
-<img src="https://github.com/Anmol-Baranwal/Cool-GIFs-For-GitHub/blob/main/Gifs/Anime-Girl.gif?raw=true" width="250" align="right">
+<img src="https://raw.githubusercontent.com/abhisheknaiidu/awesome-github-profile-readme/master/gifs/anime-coffee.gif" width="250" align="right">
 </div>
 
 | Domain | Pro Tools |
@@ -44,12 +43,7 @@ Currently perfecting the art of **Flutter, Kotlin, and Software Architecture.**
 
 ---
 
-### 🎮 Gaming Ecosystem
-![Unity](https://img.shields.io/badge/Unity-000000?style=flat-square&logo=unity&logoColor=white) ![Unreal](https://img.shields.io/badge/Unreal_Engine-313131?style=flat-square&logo=unrealengine&logoColor=white) ![Steam](https://img.shields.io/badge/Steam-000000?style=flat-square&logo=steam&logoColor=white) ![Epic Games](https://img.shields.io/badge/Epic_Games-313131?style=flat-square&logo=epicgames&logoColor=white) ![Xbox](https://img.shields.io/badge/Xbox-107C10?style=flat-square&logo=xbox&logoColor=white) ![NVIDIA](https://img.shields.io/badge/NVIDIA-76B900?style=flat-square&logo=nvidia&logoColor=white)
-
----
-
-### 📊 Vital Signs
+### Vital Signs
 
 <div align="center">
 
@@ -58,16 +52,14 @@ Currently perfecting the art of **Flutter, Kotlin, and Software Architecture.**
 
 <br>
 
-<img src="https://nirzak-streak-stats.vercel.app/?user=NethanK7&theme=radical&hide_border=true" width="80%">
+<img src="https://github-readme-streak-stats.herokuapp.com/?user=NethanK7&theme=radical&hide_border=true" width="80%">
 
 <br>
 
-<img src="https://github-profile-trophy.vercel.app/?username=NethanK7&theme=radical&no-frame=true&no-bg=true&margin-w=4" width="80%">
+<img src="https://github-profile-trophy.vercel.app/?username=NethanK7&theme=radical&no-frame=true&no-bg=true" width="80%">
 
 ---
 
-<img src="https://visitcount.itsvg.in/api?id=NethanK7&icon=0&color=0" alt="Visitor Count">
-
-*"The code is the script, the app is the performance."*
+"The code is the script, the app is the performance."
 
 </div>
