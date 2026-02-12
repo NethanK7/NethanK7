@@ -3,7 +3,7 @@
 # Nethan | Creative Developer
 **Where Code Meets Cinema**
 
-<img src="https://raw.githubusercontent.com/abhisheknaiidu/awesome-github-profile-readme/master/gifs/lofi.gif" width="800" alt="Cozy Workspace">
+<img src="https://media.giphy.com/media/v1.Y2lkPTc5MGI3NjExOHp5em01ZWlyeG1nZzB6Z3Nyc3p4bm54bm54bm54bm54bm54bm54JmN0PWc/SWoXEoE1l60L6LrK3Y/giphy.gif" width="800" alt="Creative Tech Banner">
 
 ---
 
@@ -13,7 +13,7 @@ Currently perfecting the art of Flutter, Kotlin, and Software Architecture.
 
 [ Portfolio ](https://github.com/NethanK7) • [ LinkedIn ](#) • [ Contact ](#)
 
-<img src="https://raw.githubusercontent.com/abhisheknaiidu/awesome-github-profile-readme/master/gifs/productive.gif" width="400" alt="Cozy Coding">
+<img src="https://media.giphy.com/media/v1.Y2lkPTc5MGI3NjExNHR5N205bjF6amZxeWV4bm54bm54bm54bm54bm54bm54JmN0PWc/3o7TKVUn7iM8FMEU24/giphy.gif" width="400" alt="Cozy Coding">
 
 </div>
 
@@ -28,11 +28,12 @@ Currently perfecting the art of Flutter, Kotlin, and Software Architecture.
 | **Backend & DB** | ![Firebase](https://img.shields.io/badge/Firebase-FFCA28?style=flat-square&logo=firebase&logoColor=black) ![Node.js](https://img.shields.io/badge/Node.js-339933?style=flat-square&logo=nodedotjs&logoColor=white) ![MSSQL](https://img.shields.io/badge/SQL_Server-CC2927?style=flat-square&logo=microsoftsqlserver&logoColor=white) ![MongoDB](https://img.shields.io/badge/MongoDB-47A248?style=flat-square&logo=mongodb&logoColor=white) ![SQLite](https://img.shields.io/badge/SQLite-003B57?style=flat-square&logo=sqlite&logoColor=white) |
 | **DevOps & Tools** | ![Docker](https://img.shields.io/badge/Docker-2496ED?style=flat-square&logo=docker&logoColor=white) ![AWS](https://img.shields.io/badge/AWS-232F3E?style=flat-square&logo=amazon-aws&logoColor=white) ![Git](https://img.shields.io/badge/Git-F05032?style=flat-square&logo=git&logoColor=white) ![Postman](https://img.shields.io/badge/Postman-FF6C37?style=flat-square&logo=postman&logoColor=white) |
 
+---
 
 ### Creative Media Studio
 
 <div align="right">
-<img src="https://raw.githubusercontent.com/abhisheknaiidu/awesome-github-profile-readme/master/gifs/anime-coffee.gif" width="250" align="right">
+<img src="https://media.giphy.com/media/v1.Y2lkPTc5MGI3NjExN3R5N205bjF6amZxeWV4bm54bm54bm54bm54bm54bm54JmN0PWc/l41lTfORV6McMTZpS/giphy.gif" width="250" align="right">
 </div>
 
 | Domain | Pro Tools |
@@ -52,11 +53,11 @@ Currently perfecting the art of Flutter, Kotlin, and Software Architecture.
 
 <br>
 
-<img src="https://github-readme-streak-stats.herokuapp.com/?user=NethanK7&theme=radical&hide_border=true" width="80%">
+<img src="https://github-readme-streak-stats.herokuapp.com/?user=NethanK7&theme=radical&hide_border=true" width="85%">
 
 <br>
 
-<img src="https://github-profile-trophy.vercel.app/?username=NethanK7&theme=radical&no-frame=true&no-bg=true" width="80%">
+<img src="https://github-profile-trophy.vercel.app/?username=NethanK7&theme=radical&no-frame=true&no-bg=true" width="85%">
 
 ---
 
