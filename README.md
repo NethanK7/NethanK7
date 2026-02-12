@@ -32,10 +32,6 @@ Currently perfecting the art of Flutter, Kotlin, and Software Architecture.
 
 ### Creative Media Studio
 
-<div align="right">
-<img src="https://media.giphy.com/media/v1.Y2lkPTc5MGI3NjExN3R5N205bjF6amZxeWV4bm54bm54bm54bm54bm54bm54JmN0PWc/l41lTfORV6McMTZpS/giphy.gif" width="250" align="right">
-</div>
-
 | Domain | Pro Tools |
 | :--- | :--- |
 | **Video & Motion** | ![Premiere](https://img.shields.io/badge/Premiere_Pro-9999FF?style=flat-square&logo=adobepremierepro&logoColor=white) ![After Effects](https://img.shields.io/badge/After_Effects-9999FF?style=flat-square&logo=adobeaftereffects&logoColor=white) ![DaVinci](https://img.shields.io/badge/Resolve-000000?style=flat-square&logo=davinciresolve&logoColor=white) |
@@ -44,20 +40,13 @@ Currently perfecting the art of Flutter, Kotlin, and Software Architecture.
 
 ---
 
-### Vital Signs
 
 <div align="center">
-
-<img src="https://github-readme-stats.vercel.app/api?username=NethanK7&theme=radical&hide_border=true&show_icons=true" height="180">
-<img src="https://github-readme-stats.vercel.app/api/top-langs/?username=NethanK7&theme=radical&hide_border=true&layout=compact" height="180">
 
 <br>
 
 <img src="https://github-readme-streak-stats.herokuapp.com/?user=NethanK7&theme=radical&hide_border=true" width="85%">
 
-<br>
-
-<img src="https://github-profile-trophy.vercel.app/?username=NethanK7&theme=radical&no-frame=true&no-bg=true" width="85%">
 
 ---
 
