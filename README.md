@@ -8,8 +8,7 @@
 ---
 
 ### Welcome to my Workspace
-I am a developer who treats a codebase like a film edit—precise, structured, and high-impact. 
-Currently perfecting the art of Flutter, Kotlin, and Software Architecture.
+I bridge the gap between clean code and high-end media production by treating a codebase like a cinematic edit—precise, structured, and high-impact. Currently perfecting a full-stack pipeline using Flutter, React, and Next.js, while mastering the art of motion and color in DaVinci Resolve and Final Cut Pro.
 
 [ Portfolio ](https://github.com/NethanK7) • [ LinkedIn ](#) • [ Contact ](#)
 
