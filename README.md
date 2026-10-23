@@ -1,26 +1,34 @@
 <div align="center">
 
-# Nethan | Creative Developer
-**Where Code Meets Cinema**
+<img src="assets/minecraft.svg" width="100%" alt="Animated Minecraft scene: Steve walking through a blocky world with a day/night cycle">
 
-<img src="https://media.giphy.com/media/v1.Y2lkPTc5MGI3NjExOHp5em01ZWlyeG1nZzB6Z3Nyc3p4bm54bm54bm54bm54bm54bm54JmN0PWc/SWoXEoE1l60L6LrK3Y/giphy.gif" width="800" alt="Creative Tech Banner">
+<br>
 
----
-
-### Welcome to my Workspace
-I bridge the gap between clean code and high-end media production by treating a codebase like a cinematic edit—precise, structured, and high-impact. Currently perfecting a full-stack pipeline using Flutter, React, and Next.js, while mastering the art of motion and color in DaVinci Resolve and Final Cut Pro.
-
-[ Portfolio ](https://github.com/NethanK7) • [ LinkedIn ](#) • [ Contact ](#)
-
-<img src="https://media.giphy.com/media/v1.Y2lkPTc5MGI3NjExNHR5N205bjF6amZxeWV4bm54bm54bm54bm54bm54bm54JmN0PWc/3o7TKVUn7iM8FMEU24/giphy.gif" width="400" alt="Cozy Coding">
+[![Play](https://img.shields.io/badge/▶_PRESS_START-Minecraft_Classic-5d9c32?style=for-the-badge&labelColor=3b2814)](https://classic.minecraft.net/)
+![Players](https://komarev.com/ghpvc/?username=NethanK7&label=PLAYERS%20JOINED&color=5decf5&style=for-the-badge)
 
 </div>
 
 ---
 
-### The Full Production Stack
+### 📜 Player Info
 
-| Category | Tools & Technologies |
+```yaml
+player:   NethanK7
+class:    Creative Developer
+gamemode: creative
+quest:    "Where Code Meets Cinema"
+```
+
+I bridge the gap between clean code and high-end media production by treating a codebase like a cinematic edit: precise, structured, and high-impact. Currently perfecting a full-stack pipeline using Flutter, React, and Next.js, while mastering the art of motion and color in DaVinci Resolve and Final Cut Pro.
+
+[ Portfolio ](https://github.com/NethanK7) • [ LinkedIn ](#) • [ Contact ](#)
+
+---
+
+### ⛏️ Inventory: The Full Production Stack
+
+| Slot | Tools & Technologies |
 | :--- | :--- |
 | **Languages** | ![Dart](https://img.shields.io/badge/Dart-0175C2?style=flat-square&logo=dart&logoColor=white) ![Kotlin](https://img.shields.io/badge/Kotlin-7F52FF?style=flat-square&logo=kotlin&logoColor=white) ![Swift](https://img.shields.io/badge/Swift-F54A2A?style=flat-square&logo=swift&logoColor=white) ![C#](https://img.shields.io/badge/C%23-239120?style=flat-square&logo=csharp&logoColor=white) ![JS](https://img.shields.io/badge/JavaScript-F7DF1E?style=flat-square&logo=javascript&logoColor=black) ![PHP](https://img.shields.io/badge/PHP-777BB4?style=flat-square&logo=php&logoColor=white) |
 | **Mobile & Web** | ![Flutter](https://img.shields.io/badge/Flutter-02569B?style=flat-square&logo=flutter&logoColor=white) ![Jetpack Compose](https://img.shields.io/badge/Compose-4285F4?style=flat-square&logo=android&logoColor=white) ![Laravel](https://img.shields.io/badge/Laravel-FF2D20?style=flat-square&logo=laravel&logoColor=white) ![React](https://img.shields.io/badge/React-61DAFB?style=flat-square&logo=react&logoColor=black) ![Next.js](https://img.shields.io/badge/Next.js-000000?style=flat-square&logo=nextdotjs&logoColor=white) |
@@ -29,9 +37,9 @@ I bridge the gap between clean code and high-end media production by treating a 
 
 ---
 
-### Creative Media Studio
+### 🎬 Creative Mode: Media Studio
 
-| Domain | Pro Tools |
+| Enchantment | Pro Tools |
 | :--- | :--- |
 | **Video & Motion** | ![Premiere](https://img.shields.io/badge/Premiere_Pro-9999FF?style=flat-square&logo=adobepremierepro&logoColor=white) ![After Effects](https://img.shields.io/badge/After_Effects-9999FF?style=flat-square&logo=adobeaftereffects&logoColor=white) ![DaVinci](https://img.shields.io/badge/Resolve-000000?style=flat-square&logo=davinciresolve&logoColor=white) |
 | **Audio & Music** | ![Logic Pro](https://img.shields.io/badge/Logic_Pro-000000?style=flat-square&logo=apple&logoColor=white) ![Ableton](https://img.shields.io/badge/Ableton-000000?style=flat-square&logo=abletonlive&logoColor=white) ![Audition](https://img.shields.io/badge/Audition-9999FF?style=flat-square&logo=adobeaudition&logoColor=white) |
@@ -39,16 +47,16 @@ I bridge the gap between clean code and high-end media production by treating a 
 
 ---
 
-
 <div align="center">
 
-<br>
+### 📊 Statistics
 
-<img src="https://github-readme-streak-stats.herokuapp.com/?user=NethanK7&theme=radical&hide_border=true" width="85%">
-
+<img src="https://streak-stats.demolab.com/?user=NethanK7&theme=radical&hide_border=true" width="85%" alt="GitHub streak">
 
 ---
 
-"The code is the script, the app is the performance."
+*"The code is the script, the app is the performance."*
+
+<sub>💎 World generated in pure SVG: no JavaScript, no GIFs, just blocks.</sub>
 
 </div>
